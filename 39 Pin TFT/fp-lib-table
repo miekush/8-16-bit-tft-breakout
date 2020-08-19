@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name TFT_Breakout_39_P)(type KiCad)(uri ${KIPRJMOD}/TFT_Breakout_39_P.pretty)(options "")(descr ""))
+)
