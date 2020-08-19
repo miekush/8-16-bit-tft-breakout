@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name 37_P_TFT)(type Legacy)(uri ${KIPRJMOD}/37_P_TFT.lib)(options "")(descr ""))
+)
