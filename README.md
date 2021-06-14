@@ -1,4 +1,4 @@
-# 8-16-Bit-TFT-Breakout
+# 8_16_Bit_TFT_Breakout
 Breakout Boards for 8 and 16 Bit Parallel TFTs with Direct Solder Flex PCB Connection
 
 ![Image of Breakout PCB](https://i.imgur.com/oBTWJxv.jpg)
